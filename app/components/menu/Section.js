@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Section = React.createClass({
+var Section = React.createClass({
 	render: function(){
 		return (
 				<a

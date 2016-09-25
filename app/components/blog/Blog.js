@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Blog = React.createClass({
+var Blog = React.createClass({
 	render: function(){
 		return (
 			<div>

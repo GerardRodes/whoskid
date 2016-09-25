@@ -1,7 +1,7 @@
 import React from 'react'
 import kidLogo from './../../images/kid-logo.png'
 import kidAvatar from './../../images/kid-avatar.jpg'
-const Home = React.createClass({
+var Home = React.createClass({
 	render: function(){
 		return (
 			<div className="home section"

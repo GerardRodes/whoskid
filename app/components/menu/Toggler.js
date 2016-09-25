@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Toggler = React.createClass({
+var Toggler = React.createClass({
 	render: function() {
 		return (
 			<div className={this.props.mode == 'open' ? 'toggler cross' : 'toggler sandwich' }

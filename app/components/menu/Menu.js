@@ -3,7 +3,7 @@ import Toggler from './Toggler.js'
 import {Link} from 'react-router'
 
 
-const Menu = React.createClass({
+var Menu = React.createClass({
 	getInitialState: function() {
 		return {
 			mode: 'closed',

@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Contact = React.createClass({
+var Contact = React.createClass({
 	render: function(){
 		return (
 			<div>
